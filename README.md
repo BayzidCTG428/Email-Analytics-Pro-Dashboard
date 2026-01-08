@@ -19,13 +19,13 @@ View your app in AI Studio: https://ai.studio/apps/drive/178UdPNOous8Ic0cRLEI0I_
 3. Run the app:
    `npm run dev`
 
-   # 📧 MailPulse – Analytics Pro Dashboard
+   # 📧 MailPulse – Email Analytics Pro Dashboard
 
 A modern **email outreach analytics dashboard** designed to monitor campaign performance, agent productivity, and real-time email status at scale.
 
-![MailPulse Analytics Dashboard](./7654654676787.PNG)
+![Email Analytics Pro Dashboard](./7654654676787.PNG)
 
-> ⚠️ Make sure the image file `7654654676787.PNG` is placed in the root of the repository (or update the path accordingly).
+
 
 ---
 
